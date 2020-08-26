@@ -208,7 +208,7 @@ class Watermark extends StatelessWidget {
           text,
           style: style ??
               TextStyle(
-                color: PdfColors.grey200,
+                color: PdfColors.red,
                 fontWeight: FontWeight.bold,
               ),
         );
